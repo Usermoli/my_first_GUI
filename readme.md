@@ -1,4 +1,4 @@
-i want to write a timer that has the following basic function
+i want to write a timer that has the following basic functions:
 
 a task list that you can choose what to work on
 
